@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298502847612",
+    "project_id": "soulpaws-9db22",
+    "storage_bucket": "soulpaws-9db22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298502847612:android:9adc428a43d01b2a1fddf9",
+        "android_client_info": {
+          "package_name": "com.example.soulpaws"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByLsNjWYIgr5lcyI5z-59wzjt_ccobv6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
